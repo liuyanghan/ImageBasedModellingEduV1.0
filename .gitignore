@@ -4,6 +4,7 @@
 
 # Runtime 缓存文件
 build
+cmake-build-debug
 tmp
 Api/Runtime
 Cron/Runtime
